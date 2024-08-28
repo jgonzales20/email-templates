@@ -1,0 +1,519 @@
+{
+  "root": {
+    "type": "EmailLayout",
+    "data": {
+      "backdropColor": "#F5F5F5",
+      "canvasColor": "#FFFFFF",
+      "textColor": "#000000",
+      "fontFamily": "MODERN_SANS",
+      "childrenIds": [
+        "block-1724851531413",
+        "block-1724851542973",
+        "block-1724851830802",
+        "block-1724853180892",
+        "block-1724854593665",
+        "block-1724855232201",
+        "block-1724855269255",
+        "block-1724855277254",
+        "block-1724855357207",
+        "block-1724855953515"
+      ]
+    }
+  },
+  "block-1724851509726": {
+    "type": "Avatar",
+    "data": {
+      "props": {
+        "imageUrl": "https://ui-avatars.com/api/?size=128",
+        "shape": "circle"
+      },
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "left": 24,
+          "right": 24
+        }
+      }
+    }
+  },
+  "block-1724851512251": {
+    "type": "Text",
+    "data": {
+      "props": {
+        "text": "My new text block"
+      },
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "left": 24,
+          "right": 24
+        },
+        "fontWeight": "normal"
+      }
+    }
+  },
+  "block-1724851531413": {
+    "type": "ColumnsContainer",
+    "data": {
+      "style": {
+        "backgroundColor": "#F5F5F5",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "columnsCount": 2,
+        "columnsGap": 16,
+        "columns": [
+          {
+            "childrenIds": [
+              "block-1724851535082"
+            ]
+          },
+          {
+            "childrenIds": [
+              "block-1724851537474"
+            ]
+          },
+          {
+            "childrenIds": []
+          }
+        ]
+      }
+    }
+  },
+  "block-1724851535082": {
+    "type": "Avatar",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "size": 56,
+        "shape": "circle",
+        "imageUrl": "https://media.licdn.com/dms/image/v2/C560BAQGLggfQ8HoSTA/company-logo_200_200/company-logo_200_200/0/1658149331662/garrisondentalsolutions_logo?e=2147483647&v=beta&t=gjI799zVc5bOgsb_yegHvXBAEyYAX_NEhZICLSTEcz4"
+      }
+    }
+  },
+  "block-1724851537474": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "fontWeight": "normal",
+        "textAlign": "right",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "markdown": true,
+        "text": "[Restorative](https://www.garrisondental.com/products?category%5B596%5D=596&sort_by=field_relevance_date_value) | [Hygiene](https://www.garrisondental.com/products?category%5B597%5D=597&sort_by=field_relevance_date_value)"
+      }
+    }
+  },
+  "block-1724851542973": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        },
+        "textAlign": "center"
+      },
+      "props": {
+        "url": "https://www.garrisondental.com/sites/default/files/images/LM%20Arte%20GIF%20-%20Condensa%2C%20Eccesso%2C%20Modella.gif",
+        "alt": "LM Arte Collection - Condensa, Eccesso, Modella",
+        "linkHref": "https://www.garrisondental.com/products?field_product_line%5B590%5D=590&sort_by=field_relevance_date_value",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1724851830802": {
+    "type": "Heading",
+    "data": {
+      "props": {
+        "text": "LM Arte™ | Now Available in the USA",
+        "level": "h2"
+      },
+      "style": {
+        "color": "#000000",
+        "backgroundColor": "#F5F5F5",
+        "fontWeight": "bold",
+        "padding": {
+          "top": 16,
+          "bottom": 4,
+          "right": 24,
+          "left": 0
+        }
+      }
+    }
+  },
+  "block-1724853180892": {
+    "type": "ColumnsContainer",
+    "data": {
+      "style": {
+        "backgroundColor": "#F5F5F5",
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "columnsCount": 2,
+        "columnsGap": 16,
+        "columns": [
+          {
+            "childrenIds": [
+              "block-1724853184638"
+            ]
+          },
+          {
+            "childrenIds": [
+              "block-1724853189661"
+            ]
+          },
+          {
+            "childrenIds": []
+          }
+        ]
+      }
+    }
+  },
+  "block-1724853184638": {
+    "type": "Text",
+    "data": {
+      "style": {
+        "color": "#000000",
+        "fontWeight": "normal",
+        "textAlign": "left",
+        "padding": {
+          "top": 12,
+          "bottom": 0,
+          "right": 24,
+          "left": 16
+        }
+      },
+      "props": {
+        "text": "LM ErgoSense® non-slip, lightweight handles are comfortable to hold  and provide a high tactile sense.\n"
+      }
+    }
+  },
+  "block-1724853189661": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "url": "https://www.garrisondental.com/sites/default/files/images/Ergosense%20Handle%20Transparent.png",
+        "alt": "LM ErgoSense",
+        "linkHref": "https://www.garrisondental.com/lm-artetm",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1724854593665": {
+    "type": "ColumnsContainer",
+    "data": {
+      "style": {
+        "backgroundColor": "#F5F5F5",
+        "padding": {
+          "top": 8,
+          "bottom": 8,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "columnsCount": 2,
+        "columnsGap": 16,
+        "columns": [
+          {
+            "childrenIds": [
+              "block-1724854599236"
+            ]
+          },
+          {
+            "childrenIds": [
+              "block-1724854642762"
+            ]
+          },
+          {
+            "childrenIds": []
+          }
+        ]
+      }
+    }
+  },
+  "block-1724854599236": {
+    "type": "Button",
+    "data": {
+      "style": {
+        "textAlign": "center",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "buttonBackgroundColor": "#000000",
+        "buttonStyle": "rounded",
+        "fullWidth": true,
+        "size": "medium",
+        "text": "Shop Restorative",
+        "url": "https://www.garrisondental.com/products?category%5B596%5D=596&sort_by=field_relevance_date_value"
+      }
+    }
+  },
+  "block-1724854642762": {
+    "type": "Button",
+    "data": {
+      "style": {
+        "fontWeight": "bold",
+        "textAlign": "center",
+        "padding": {
+          "top": 20,
+          "bottom": 20,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "buttonBackgroundColor": "#000000",
+        "buttonStyle": "rounded",
+        "fullWidth": true,
+        "size": "medium",
+        "text": "Shop Hygiene",
+        "url": "https://www.garrisondental.com/products?category%5B597%5D=597&sort_by=field_relevance_date_value"
+      }
+    }
+  },
+  "block-1724855232201": {
+    "type": "Heading",
+    "data": {
+      "props": {
+        "text": "The Latest Dental Technology by StyleItaliano",
+        "level": "h2"
+      },
+      "style": {
+        "color": "#000000",
+        "backgroundColor": "#F5F5F5",
+        "fontWeight": "bold",
+        "padding": {
+          "top": 16,
+          "bottom": 16,
+          "right": 24,
+          "left": 0
+        }
+      }
+    }
+  },
+  "block-1724855269255": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        },
+        "backgroundColor": "#FAFAFA"
+      },
+      "props": {
+        "url": "https://www.garrisondental.com/sites/default/files/images/LM-Arte%20instruments%20incl%20DD_b%26w_2.jpg",
+        "alt": "LM Overview Photo",
+        "linkHref": "https://www.garrisondental.com/lm-artetm",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1724855277254": {
+    "type": "ColumnsContainer",
+    "data": {
+      "style": {
+        "backgroundColor": "#FAFAFA",
+        "padding": {
+          "top": 16,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "columnsCount": 2,
+        "columnsGap": 16,
+        "columns": [
+          {
+            "childrenIds": [
+              "block-1724855293068"
+            ]
+          },
+          {
+            "childrenIds": [
+              "block-1724855301162"
+            ]
+          },
+          {
+            "childrenIds": []
+          }
+        ]
+      }
+    }
+  },
+  "block-1724855293068": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "url": "https://www.garrisondental.com/sites/default/files/images/LM-Arte%20Modella%20LM%20442-443DDES_2.jpg",
+        "alt": "LM Modella",
+        "linkHref": "https://www.garrisondental.com/products/lm-artetm-dark-diamondtm-restorative-set",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1724855301162": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "url": "https://www.garrisondental.com/sites/default/files/images/LM-Arte%20Fissura%20LM%20481-487DDES_2.jpg",
+        "alt": "LM Fissura",
+        "linkHref": "https://www.garrisondental.com/products/lm-artetm-dark-diamondtm-restorative-set",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1724855357207": {
+    "type": "ColumnsContainer",
+    "data": {
+      "style": {
+        "backgroundColor": "#FAFAFA",
+        "padding": {
+          "top": 16,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "columnsCount": 2,
+        "columnsGap": 16,
+        "columns": [
+          {
+            "childrenIds": [
+              "block-1724855375325"
+            ]
+          },
+          {
+            "childrenIds": [
+              "block-1724855377595"
+            ]
+          },
+          {
+            "childrenIds": []
+          }
+        ]
+      }
+    }
+  },
+  "block-1724855375325": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "url": "https://www.garrisondental.com/sites/default/files/images/LM-Arte%20Eccesso%20LM%20307-308DDES_2.jpg",
+        "alt": "LM Eccesso",
+        "linkHref": "https://www.garrisondental.com/products/lm-artetm-dark-diamondtm-restorative-set",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1724855377595": {
+    "type": "Image",
+    "data": {
+      "style": {
+        "padding": {
+          "top": 0,
+          "bottom": 0,
+          "right": 0,
+          "left": 0
+        }
+      },
+      "props": {
+        "url": "https://www.garrisondental.com/sites/default/files/images/LM-Arte%20Condensa%20DD%20LM%20488-489DDES_2.jpg",
+        "alt": "LM Condensa",
+        "linkHref": "https://www.garrisondental.com/products/lm-artetm-dark-diamondtm-restorative-set",
+        "contentAlignment": "middle"
+      }
+    }
+  },
+  "block-1724855953515": {
+    "type": "Button",
+    "data": {
+      "style": {
+        "backgroundColor": "#F5F5F5",
+        "textAlign": "center",
+        "padding": {
+          "top": 32,
+          "bottom": 32,
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "buttonBackgroundColor": "#EF4E23",
+        "fullWidth": false,
+        "text": "Shop Garrison + LM",
+        "url": "https://www.garrisondental.com/products?category%5B596%5D=596&category%5B597%5D=597&category%5B598%5D=598&category%5B599%5D=599"
+      }
+    }
+  }
+}
