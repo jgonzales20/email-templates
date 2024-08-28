@@ -76,7 +76,7 @@
                 /></a>
               </div>
               <h2
-                style="color:#000000;background-color:#F5F5F5;font-weight:bold;margin:0;font-size:24px;padding:16px 24px 4px 8px"
+                style="background-color:#F5F5F5;font-weight:bold;margin:0;font-size:24px;padding:16px 24px 4px 8px"
               >
                 LM Arte™ | Now Available in the USA
               </h2>
@@ -94,7 +94,7 @@
                         style="box-sizing:content-box;vertical-align:middle;padding-left:0;padding-right:8px"
                       >
                         <div
-                          style="color:#000000;font-weight:normal;text-align:left;padding:12px 24px 0px 16px"
+                          style="font-size:13px;font-weight:normal;padding:16px 24px 16px 0px"
                         >
                           LM ErgoSense® non-slip, lightweight handles are
                           comfortable to hold and provide a high tactile sense.
@@ -103,7 +103,7 @@
                       <td
                         style="box-sizing:content-box;vertical-align:middle;padding-left:8px;padding-right:0"
                       >
-                        <div style="padding:16px 0px 16px 0px">
+                        <div style="padding:16px 0px 16px 8px">
                           <a
                             href="https://www.garrisondental.com/lm-artetm"
                             style="text-decoration:none"
