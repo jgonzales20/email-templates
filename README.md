@@ -1,7 +1,10 @@
 # My Collection of Email Templates
 
 ## Online Tool Collection 
+### Gif Editing
 EZGif - [ezgif.com](https://ezgif.com/?utm_source=github&utm_medium=social&utm_campaign=jacobgonzales20)
+
+### Email Building
 EmailBuilder.js - [GitHub Page](https://github.com/usewaypoint/email-builder-js)
 
 ## Socials
