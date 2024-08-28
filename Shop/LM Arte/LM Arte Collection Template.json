@@ -24,34 +24,34 @@
   "block-1724851509726": {
     "type": "Avatar",
     "data": {
-      "props": {
-        "imageUrl": "https://ui-avatars.com/api/?size=128",
-        "shape": "circle"
-      },
       "style": {
         "padding": {
           "top": 16,
           "bottom": 16,
-          "left": 24,
-          "right": 24
+          "right": 24,
+          "left": 24
         }
+      },
+      "props": {
+        "shape": "circle",
+        "imageUrl": "https://ui-avatars.com/api/?size=128"
       }
     }
   },
   "block-1724851512251": {
     "type": "Text",
     "data": {
-      "props": {
-        "text": "My new text block"
-      },
       "style": {
+        "fontWeight": "normal",
         "padding": {
           "top": 16,
           "bottom": 16,
-          "left": 24,
-          "right": 24
-        },
-        "fontWeight": "normal"
+          "right": 24,
+          "left": 24
+        }
+      },
+      "props": {
+        "text": "My new text block"
       }
     }
   },
@@ -245,8 +245,8 @@
         "padding": {
           "top": 8,
           "bottom": 8,
-          "right": 24,
-          "left": 24
+          "right": 8,
+          "left": 8
         }
       },
       "props": {
@@ -278,15 +278,15 @@
         "padding": {
           "top": 16,
           "bottom": 16,
-          "right": 24,
-          "left": 24
+          "right": 0,
+          "left": 0
         }
       },
       "props": {
         "buttonBackgroundColor": "#000000",
         "buttonStyle": "rounded",
         "fullWidth": false,
-        "size": "medium",
+        "size": "small",
         "text": "Shop Restorative",
         "url": "https://www.garrisondental.com/products?category%5B596%5D=596&sort_by=field_relevance_date_value"
       }
@@ -299,17 +299,17 @@
         "fontWeight": "bold",
         "textAlign": "center",
         "padding": {
-          "top": 20,
-          "bottom": 20,
-          "right": 24,
-          "left": 24
+          "top": 16,
+          "bottom": 16,
+          "right": 0,
+          "left": 0
         }
       },
       "props": {
         "buttonBackgroundColor": "#000000",
         "buttonStyle": "rounded",
         "fullWidth": false,
-        "size": "medium",
+        "size": "small",
         "text": "Shop Hygiene",
         "url": "https://www.garrisondental.com/products?category%5B597%5D=597&sort_by=field_relevance_date_value"
       }
