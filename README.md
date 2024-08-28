@@ -1,3 +1,3 @@
 My Collection of Email Templates
 
-LinkedIn: linkedin.com/in/jacobgonzales20
+LinkedIn: [jacobgonzales20](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jacobgonzales20)
