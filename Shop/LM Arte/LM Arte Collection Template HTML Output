@@ -7,7 +7,7 @@
       <table
         align="center"
         width="100%"
-        style="margin:0 auto;max-width:600px;background-color:#FFFFFF"
+        style="margin:0 auto;max-width:600px;background-color:#FFFFFF;border-radius:0"
         role="presentation"
         cellspacing="0"
         cellpadding="0"
@@ -43,7 +43,7 @@
                         style="box-sizing:content-box;vertical-align:middle;padding-left:8px;padding-right:0"
                       >
                         <div
-                          style="font-weight:normal;text-align:right;padding:0px 0px 0px 0px"
+                          style="font-size:15px;font-weight:normal;text-align:right;padding:0px 0px 0px 0px"
                         >
                           <p>
                             <a
@@ -76,7 +76,7 @@
                 /></a>
               </div>
               <h2
-                style="color:#000000;background-color:#F5F5F5;font-weight:bold;margin:0;font-size:24px;padding:16px 24px 4px 0px"
+                style="color:#000000;background-color:#F5F5F5;font-weight:bold;margin:0;font-size:24px;padding:16px 24px 4px 8px"
               >
                 LM Arte™ | Now Available in the USA
               </h2>
@@ -137,7 +137,7 @@
                         >
                           <a
                             href="https://www.garrisondental.com/products?category%5B596%5D=596&amp;sort_by=field_relevance_date_value"
-                            style="color:#FFFFFF;font-size:16px;font-weight:bold;background-color:#000000;border-radius:4px;display:block;padding:12px 20px;text-decoration:none"
+                            style="color:#FFFFFF;font-size:16px;font-weight:bold;background-color:#000000;border-radius:4px;display:inline-block;padding:12px 20px;text-decoration:none"
                             target="_blank"
                             ><span
                               ><!--[if mso
@@ -168,7 +168,7 @@
                         >
                           <a
                             href="https://www.garrisondental.com/products?category%5B597%5D=597&amp;sort_by=field_relevance_date_value"
-                            style="color:#FFFFFF;font-size:16px;font-weight:bold;background-color:#000000;border-radius:4px;display:block;padding:12px 20px;text-decoration:none"
+                            style="color:#FFFFFF;font-size:16px;font-weight:bold;background-color:#000000;border-radius:4px;display:inline-block;padding:12px 20px;text-decoration:none"
                             target="_blank"
                             ><span
                               ><!--[if mso
@@ -196,7 +196,7 @@
                 </table>
               </div>
               <h2
-                style="color:#000000;background-color:#F5F5F5;font-weight:bold;margin:0;font-size:24px;padding:16px 24px 16px 0px"
+                style="color:#000000;background-color:#F5F5F5;font-weight:bold;margin:0;font-size:24px;padding:16px 24px 16px 8px"
               >
                 The Latest Dental Technology by StyleItaliano
               </h2>
