@@ -3,6 +3,7 @@
     "type": "EmailLayout",
     "data": {
       "backdropColor": "#F5F5F5",
+      "borderRadius": 0,
       "canvasColor": "#FFFFFF",
       "textColor": "#000000",
       "fontFamily": "MODERN_SANS",
@@ -109,6 +110,7 @@
     "type": "Text",
     "data": {
       "style": {
+        "fontSize": 15,
         "fontWeight": "normal",
         "textAlign": "right",
         "padding": {
@@ -159,7 +161,7 @@
           "top": 16,
           "bottom": 4,
           "right": 24,
-          "left": 0
+          "left": 8
         }
       }
     }
@@ -283,7 +285,7 @@
       "props": {
         "buttonBackgroundColor": "#000000",
         "buttonStyle": "rounded",
-        "fullWidth": true,
+        "fullWidth": false,
         "size": "medium",
         "text": "Shop Restorative",
         "url": "https://www.garrisondental.com/products?category%5B596%5D=596&sort_by=field_relevance_date_value"
@@ -306,7 +308,7 @@
       "props": {
         "buttonBackgroundColor": "#000000",
         "buttonStyle": "rounded",
-        "fullWidth": true,
+        "fullWidth": false,
         "size": "medium",
         "text": "Shop Hygiene",
         "url": "https://www.garrisondental.com/products?category%5B597%5D=597&sort_by=field_relevance_date_value"
@@ -328,7 +330,7 @@
           "top": 16,
           "bottom": 16,
           "right": 24,
-          "left": 0
+          "left": 8
         }
       }
     }
